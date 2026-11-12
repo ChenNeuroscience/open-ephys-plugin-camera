@@ -1,3 +1,7 @@
+> [!WARNING]
+> # NO LONGER MAINTAINED
+> we use [ephys-rs](https://github.com/ChenNeuroscience/ephys-rs) instead
+
 # Open Ephys (v1) Plugin - Camera
 
 An Open Ephys source plugin that tracks an animal's head LEDs from an overhead camera and records their
